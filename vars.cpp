@@ -9,7 +9,7 @@ int main()
 	
 	// Declared and intialized
 	float decimal = 7.5f;
-	double pi = 3.14159
+	double pi = 3.14159;
 	bool isTrue = false;
 	
 	// Output variables
